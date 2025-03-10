@@ -1,5 +1,6 @@
 .{
-    .name = "extism",
+    .name = .extism,
+    .fingerprint = 0xb41364f0ce00d557,
     .version = "1.0.0-rc2",
     .paths = .{""},
 }
